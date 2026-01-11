@@ -15,5 +15,16 @@ Those seeking to use ML in a <u>production environment</u> must be versed in <u>
 It is imperative to have a strong foundation in each of the four disciplnes of mathematics, along with the relevant programming language before proceeding further.
 
 
+## What is the Math used for?
+
+Linear Algebra: Lets computers understand and manipulate data.
+
+Calculus: Helps Models learn by adjusting parameters.
+
+Probability and Statistics: Decision making under uncertainty.
+
+Optimization: Find the best solution.
+
+
 ![Tom Mitchell](https://upload.wikimedia.org/wikipedia/commons/7/7c/AEA_2025_-_Tom_Mitchell_01.jpg "Tom Mitchell, Pioneer of Modern Machine Learning")
 *Tom Mitchell, Pioneer of Modern Machine Learning*
