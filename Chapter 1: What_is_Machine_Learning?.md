@@ -2,7 +2,7 @@
 
 Tom Mitchell (1998) gives the following definition - 
 
-"A computer program is said to <u>learn from Experience (E)</u> with respect some <u>Task (T)</u> and some <u>Performance Measure (P)</u>,
+"A computer program is said to <b>learn from Experience (E)</b> with respect some <u>Task (T)</u> and some <u>Performance Measure (P)</u>,
 if its <u>performance on T, as masured by P, improves with experience E</u>."
 
 Machine learning (ML) occurs at the intersection of 4 deisciplines of Mathematics.
