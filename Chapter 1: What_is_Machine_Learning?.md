@@ -16,3 +16,4 @@ It is imperative to have a strong foundation in each of the four disciplnes of m
 
 
 ![Tom Mitchell](https://upload.wikimedia.org/wikipedia/commons/7/7c/AEA_2025_-_Tom_Mitchell_01.jpg "Tom Mitchell, Pioneer of Modern Machine Learning")
+*Tom Mitchell, Pioneer of Modern Machine Learning*
