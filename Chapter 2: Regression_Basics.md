@@ -42,7 +42,7 @@ i = iteration
 The real mathematical relationship between inputs and outputs is unkown. All we have is examples of inputs and their corresponding outputs, a.k.a Data.
 Linear Regression uses those examples to learn a rule that -
 
-- Approximated the real relationship
+- Approximates the real relationship
 - Predicts new outputs
 - captures the main patterns in the data
 
