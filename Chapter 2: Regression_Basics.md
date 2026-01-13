@@ -48,8 +48,8 @@ Linear Regression uses those examples to learn a rule that -
 
 *This learned rule is the Estimated Function.*
 
-## Estimated Regression Model ##
-### (What is actually Computed) ###
+### Estimated Regression Model ###
+#### (What is actually Computed) ####
 
 ###### ^f(x) = b0 + b1 * x1 + b2 * x2 + ... + br * xr ######
 
