@@ -84,6 +84,8 @@ Total Sum of Squares (TSS) = RSS + ESS = How much the actual values (f(x)) varry
 
 ###### R^2 = ESS/TSS = 1 - (RSS/TSS) ######
 
+
 ![Least Square Picture](https://upload.wikimedia.org/wikipedia/commons/e/ed/Least_Squares.gif)
+
 *Least Squares gif*
 
