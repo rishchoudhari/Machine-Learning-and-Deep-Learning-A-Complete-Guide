@@ -25,6 +25,13 @@ Probability and Statistics: Decision making under uncertainty.
 
 Optimization: Find the best solution.
 
+## Types of ML ##
+
+Supervised Learning - The algorythm is trained on labeled data - the input (x) comes with a correct output (y) - so the model learns to predict right answer for new unseen data.
+
+Unsupervised Learning - The algorythm analyzes unabled data, it discoveres structure (inputs, outputs, correct answers) on its own.
+
+Resinforced Learning - The algorythm do whatever it wants and engineers reward success, and punish failure.
 
 ![Tom Mitchell](https://upload.wikimedia.org/wikipedia/commons/7/7c/AEA_2025_-_Tom_Mitchell_01.jpg "Tom Mitchell, Pioneer of Modern Machine Learning")
 *Tom Mitchell, Pioneer of Modern Machine Learning*
