@@ -2,7 +2,7 @@
 
 Supervised Learning uses known answers during training to predict a continous value or categories.
 
-###### Regression - ######
+#### Regression - ####
 When a function maps features (x) to a continous output (y), it is called a Regression Function.
 
 There are two situations where Regression is used -
