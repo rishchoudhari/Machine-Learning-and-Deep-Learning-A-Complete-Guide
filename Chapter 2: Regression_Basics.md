@@ -7,7 +7,7 @@ When a function maps features (x) to a continous output (y), it is called a Regr
 
 There are two situations where Regression is used -
 
-a) How variables are related to influenced
+a) How variables are related or influenced
 
 b) Predictions or forecaste responses
 
