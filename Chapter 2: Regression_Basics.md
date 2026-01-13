@@ -33,18 +33,18 @@ i = iteration
 
 β0 = intercept (value of f(x) when all x's are 0)
 
-β1, β2, βr = Slope or Regression Coeffiecients.
+β1, β2, βr = Slope or Regression Coeffiecients
 
 ε = random error or noise (Greek Letter Epsilon)
 
 ## Estimated Regression Function ##
 
-The real mathematical relationship between inputs and outputs is unkown. All we have is examples of inputs and their corresponding outputs, a.k.a Data.
+The real mathematical relationship between inputs and outputs is unknown. All we have is examples of inputs and their corresponding outputs, a.k.a Data.
 Linear Regression uses those examples to learn a rule that -
 
 - Approximates the real relationship
 - Predicts new outputs
-- captures the main patterns in the data
+- Captures the main patterns in the data
 
 *This learned rule is the Estimated Function.*
 
