@@ -64,7 +64,7 @@ b = estimated coefficients (they are the model's best guess of true β's)
 The difference between predicted responses (^f(x)) for each observation (i=n) and the actual response (f(x)) is called the Residual.
 The weight that corresponds to the smallest residual is what Regression wants to determine.
 
-## Residual Formula ##
+### Residual Formula ###
 
 ###### ei = f(x)i - ^f(x)i ######
 
